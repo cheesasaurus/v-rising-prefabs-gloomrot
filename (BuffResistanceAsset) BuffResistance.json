@@ -1,0 +1,23 @@
+{
+  "(BuffResistanceAsset) BuffResistance_Dispell_Standard": 663432934,
+  "(BuffResistanceAsset) BuffResistance_EliteMob": 1973136122,
+  "(BuffResistanceAsset) BuffResistance_ExplodingMosquito": 815189566,
+  "(BuffResistanceAsset) BuffResistance_Golem": -1736068504,
+  "(BuffResistanceAsset) BuffResistance_GolemRockElemental": 1413952432,
+  "(BuffResistanceAsset) BuffResistance_GroundedUnit": -1233147667,
+  "(BuffResistanceAsset) BuffResistance_Horses": -1847481569,
+  "(BuffResistanceAsset) BuffResistance_Hunter": 193079472,
+  "(BuffResistanceAsset) BuffResistance_IceBlock": -1747607804,
+  "(BuffResistanceAsset) BuffResistance_IgniteResistant": -992427880,
+  "(BuffResistanceAsset) BuffResistance_NoResistances": -149206519,
+  "(BuffResistanceAsset) BuffResistance_OnlyKnockbackAllowed": -1043688002,
+  "(BuffResistanceAsset) BuffResistance_SpellImmune": 138461582,
+  "(BuffResistanceAsset) BuffResistance_SpiderTanks": -1513114390,
+  "(BuffResistanceAsset) BuffResistance_Structures": -641281679,
+  "(BuffResistanceAsset) BuffResistance_UberMob": 1067748088,
+  "(BuffResistanceAsset) BuffResistance_UberMob_IgniteResistant": 960451195,
+  "(BuffResistanceAsset) BuffResistance_UberMobNoKnockback": -995401394,
+  "(BuffResistanceAsset) BuffResistance_UberMobNoKnockbackOrGrab": 99200653,
+  "(BuffResistanceAsset) BuffResistance_Vampire": -1022163918,
+  "(BuffResistanceAsset) BuffResistance_VBloodDownedDispell": -1114856172
+}

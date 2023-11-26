@@ -1,0 +1,15 @@
+{
+  "StatMod_AttackSpeed": 891212160,
+  "StatMod_CriticalStrikePhysical": -183716715,
+  "StatMod_CriticalStrikePhysicalPower": 1047814697,
+  "StatMod_CriticalStrikeSpellPower": 112264954,
+  "StatMod_CriticalStrikeSpells": -588441443,
+  "StatMod_HealthRegen": 1947040297,
+  "StatMod_MaxHealth": -466929083,
+  "StatMod_MovementSpeed": -1868974371,
+  "StatMod_PhysicalPower": 1133425171,
+  "StatMod_PhysicalResistance": -1354171562,
+  "StatMod_ResourceYield": 736151429,
+  "StatMod_SpellLeech": -835901397,
+  "StatMod_SpellPower": -345629447
+}
